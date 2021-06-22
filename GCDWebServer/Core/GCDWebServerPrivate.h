@@ -35,7 +35,7 @@
 #import "GCDWebServerHTTPStatusCodes.h"
 #import "GCDWebServerFunctions.h"
 
-#import "GCDWebServer.h"
+#import "GCDWebServerCore.h"
 #import "GCDWebServerConnection.h"
 
 #ifdef SWIFT_PACKAGE

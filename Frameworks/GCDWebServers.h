@@ -26,7 +26,7 @@
  */
 
 // GCDWebServer Core
-#import "GCDWebServer.h"
+#import "GCDWebServerCore.h"
 #import "GCDWebServerConnection.h"
 #import "GCDWebServerFunctions.h"
 #import "GCDWebServerHTTPStatusCodes.h"
